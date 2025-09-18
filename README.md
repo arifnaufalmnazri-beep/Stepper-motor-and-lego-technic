@@ -12,10 +12,10 @@ Here's the test run actually working.
 -Arduino UNO
 
 ## How it works
-The stepper motor rests on a platform(and held with my hand, becaue it kept on vibrating). The stepper motor is taped to the axle that holds the gear. When it's acivated, it turns that axle which then turns other gears and makes the wheels move. I can control the rotation speed and direction in Arduino IDE.
+The stepper motor rests on a platform, but is also held by my hand due to its constant vibrations. The stepper motor is taped to the axle that holds the gear. When it's acivated, it turns that axle which then turns other gears and makes the wheels move. I can control the rotation speed and direction in Arduino IDE.
 
 ## Code
 Here's the Arduino sketch I used:  [carStepper.ino](carStepper.ino)
 
 ## Future plans
-I'm planning on using this to build a lego car that runs on a stepper motor soon. This is my first post here, and I hope that this, and many others following it, will help me get a scholarship to Taylor's university here in Malaysia. It's a really awesome univeristy I want to attend. So, wish me luck!
+I'm planning on using this to build a lego car that runs on a stepper motor soon. This is my first post here, and I hope that this, and many others following it, will help me get a university scholarship in the future. My next projects will come soon. 
